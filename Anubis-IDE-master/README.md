@@ -1,6 +1,6 @@
 # UPDATE
 
-An evolved version of Anubis IDE by **Abdelrahman Ibrahim ELGhamry 16P3043** For CSE426: Software Maintenance and Evolution Course **Dr. Ayman Bahaa** by the requirements of **Ain Shams University**.
+An evolved version of Anubis IDE by **Youssef Bassel Mohamed 17P6029** For CSE426: Software Maintenance and Evolution Course **Dr. Ayman Bahaa** by the requirements of **Ain Shams University**.
 <br>
 
 ### Change Log
